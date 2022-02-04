@@ -130,3 +130,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# System Files
+.DS_Store
+Thumbs.db
